@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HandTrackingWithHingeJoints.unity
     guid: c6800c8c5024b49eebd5494c7597ab7e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Buttons.unity
     guid: dcb9ba29274e343858a5d1cb48795a58
   - enabled: 0
@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/VFXFollow.unity
     guid: 2ea9bc305213c43599869a1432983186
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VFXPixels.unity
     guid: 7adc0f31b1e6f4474a056d83a8025228
   m_configObjects:
